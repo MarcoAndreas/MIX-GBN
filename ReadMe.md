@@ -1,4 +1,4 @@
-# A BGe Score for Tied-Covariance Mixture Gaussian Bayesian Networks
+# A BGe score for tied-covariance mixture Gaussian Bayesian networks
 
 **author:** Marco Grzegorczyk
 
