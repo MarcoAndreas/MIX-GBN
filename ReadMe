@@ -1,1 +1,18 @@
-A BGe score for tied-covariance mixture Gaussian Bayesian networks
+A BGe Score for Tied-Covariance Mixture Gaussian Bayesian Networks
+
+This GitHub repository contains the R code accompanying the paper
+
+"A BGe Score for Tied-Covariance Mixture Gaussian Bayesian Networks"
+
+published in the International Journal of Approximate Reasoning (2026)
+
+A link to the published paper will be added once it becomes available.
+
+Author: Marco Grzegorczyk
+
+Affiliation: Bernoulli Institute, University of Groningen, The Netherlands
+
+Email: m.a.grzegorczyk@rug.nl
+
+The file WORKED_EXAMPLE.R provides a step-by-step demonstration of the method. 
+The R commands can be executed line by line.
