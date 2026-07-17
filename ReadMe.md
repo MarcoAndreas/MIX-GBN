@@ -2,7 +2,7 @@
 
 **author:** Marco Grzegorczyk
 
-**affiliation:** University of Groningen, The Netherlands
+**affiliation:** Bernoulli Institute, University of Groningen, The Netherlands
 
 **email:** m.a.grzegorczyk@rug.nl
 
