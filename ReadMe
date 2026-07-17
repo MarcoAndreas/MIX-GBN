@@ -1,18 +1,36 @@
-A BGe Score for Tied-Covariance Mixture Gaussian Bayesian Networks
+# A BGe Score for Tied-Covariance Mixture Gaussian Bayesian Networks
 
-This GitHub repository contains the R code accompanying the paper
+**author:** Marco Grzegorczyk
 
-"A BGe Score for Tied-Covariance Mixture Gaussian Bayesian Networks"
+**affiliation:** University of Groningen, The Netherlands
 
-published in the International Journal of Approximate Reasoning (2026)
+**email:** m.a.grzegorczyk@rug.nl
 
-A link to the published paper will be added once it becomes available.
+This GitHub repository contains R code that accompanies the paper:
 
-Author: Marco Grzegorczyk
+```
+Grzegorczyk, M. (2026): A BGe score for tied-covariance mixture Gaussian Bayesian networks.
+International Journal of Approximate Reasoning.
+```
 
-Affiliation: Bernoulli Institute, University of Groningen, The Netherlands
+*A link to the published paper will be added once it becomes available.*
 
-Email: m.a.grzegorczyk@rug.nl
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-The file WORKED_EXAMPLE.R provides a step-by-step demonstration of the method. 
-The R commands can be executed line by line.
+***Instructions***
+
+1. Save all available R files in a directory (e.g. on your drive **X** in the folder `mGBN`).
+
+2. Open R (or RStudio).
+
+3. Set the working directory to the selected folder.
+
+For example (if you are using Windows), type:
+
+```r
+setwd("X:/mGBN")
+```
+
+4. The file `WORKED_EXAMPLE.R` provides a step-by-step demonstration of the method.
+
+5. The R commands in `WORKED_EXAMPLE.R` can be executed line by line.
